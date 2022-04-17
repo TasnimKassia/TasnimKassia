@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TasnimKassia
-- 👀 I’m interested in data mining and machine learning
-- 🌱 I’m currently learning machine learning, ASL, RISC-V, Verilog
+- 👀 I’m interested in front-end development and blockchain.
+- 🌱 I’m currently learning C programming, RISC-V, Verilog.
 - 📫 How to reach me: email- kassia.tasnim@gmail.com
 
 <!---
